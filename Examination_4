@@ -8,4 +8,10 @@
 # ===================================================
 
 # เขียนโค้ดต่อจากนี้
-score = int(input())
+score = int(input(กรุณากรอกคะเเนน))
+if score >= 80:
+   price("A")
+esif score >=60:
+   price("B")
+esil:
+   price("C)
